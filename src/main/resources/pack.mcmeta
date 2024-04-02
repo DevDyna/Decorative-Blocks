@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "description": {
+      "text": "${mod_id} data-files"
+    },
+    "pack_format": 15
+  }
+}
