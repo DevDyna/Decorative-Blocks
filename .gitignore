@@ -1,5 +1,5 @@
 build
 .gradle
 desktop.ini
-/_automation/jar
+/_automation/*.jar
 /_legacy_textures
